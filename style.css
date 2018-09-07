@@ -17,9 +17,7 @@
 .icon-bar{
   background-color: black !important;
 }
-/*.container{
-  overflow-x: hidden;
-}*/
+
 .fixedside{
 width: 130px;
 position: fixed !important;
