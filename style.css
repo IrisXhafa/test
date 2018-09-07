@@ -1,0 +1,51 @@
+.navbar {
+    background-color: white !important;
+    border: 0px !important;
+    box-shadow: 0 8px 10px -2px rgba(0,0,0,.2);
+}
+.navbar-left{
+  margin-top: 7%;
+}
+
+.navbar-toggle, .navbar-toggle:hover{
+  background-color: white !important;
+}
+.navbar-right{
+  margin-top: 1% !important;
+  font-size: 100%;
+}
+.icon-bar{
+  background-color: black !important;
+}
+/*.container{
+  overflow-x: hidden;
+}*/
+.fixedside{
+width: 130px;
+position: fixed !important;
+z-index: 1;
+top: 165px;
+left: 40px;
+overflow-x: hidden;
+padding: 8px 0;
+ }
+ .fixedimg{
+   max-width: 100%;
+ }
+ .fixedontop{
+   text-align: center;
+ }
+.imgontop{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+.scrollableside{
+  margin-left: 30%;
+overflow-x: hidden;
+}
+.scrollimg{
+  width: 25%;
+  height: 200px;
+  margin: 3%
+}
